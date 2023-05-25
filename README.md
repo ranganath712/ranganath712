@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ranganath712/ranganath712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Myself **Gnana Rangasai Nath Vutakuri**, a self-taught Data Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working as a Data Analyst Intern in Trainity.
+- 🌱 I’m currently learning various concepts on Data Analysis while working on numerous live projects.
+- 📊 Have 3 yrs of Professional Experience as JSON Config Developer.
+
+### Tools
+
+- Database: MySQL, SQL Server
+- Python: Numpy, Pandas, Matplotlib, Seaborn
+- BI: Tableau, Power BI
+- Excel, Canva
+- Abode Creative Cloud: Photoshop, After Effects, Illustrator
+
